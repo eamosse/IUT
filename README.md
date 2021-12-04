@@ -32,8 +32,8 @@ codes couvert/non couverts par les tests.
 ## Pré-requis 
 - Langage Orienté Objet (de préférence Java)
 - Installer Git sur son poste de travail
-- Installer le logiciel IntellIJ 
-- Installer Java (JDK 8+)
+- Installer le logiciel IntellIJ (https://www.jetbrains.com/fr-fr/idea/download/)
+- Installer Java (JDK 8+) (Utiliser la version intégrée à IntellJ)
 
 ## Contraintes
 - Le projet est à réaliser pendant la séance
